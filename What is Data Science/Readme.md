@@ -1,4 +1,4 @@
-## Course Syllabus
+## Module Syllabus
 
 ### Defining Data Science and What Data Scientists Do
 * Defining Data Science
