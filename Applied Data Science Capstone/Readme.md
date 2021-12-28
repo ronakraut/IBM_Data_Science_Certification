@@ -1,4 +1,4 @@
-# Applied Data Science Capstone
+# Applied Data Science Capstone Project
 ## Module syllabus:
 - Introduction
 - Exploratory Data Analysis (EDA)
