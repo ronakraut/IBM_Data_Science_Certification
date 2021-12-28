@@ -5,3 +5,4 @@
 - Interactive Visual Analytics and Dashboard
 - Predictive Analysis (Classification)
 - Data-Driven Insights
+- https://www.linkedin.com/pulse/ibm-data-science-capstone-project-winning-space-race-omkar-fadtare
