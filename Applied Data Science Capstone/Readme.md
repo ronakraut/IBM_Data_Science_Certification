@@ -19,3 +19,5 @@
 - [Notebook](https://github.com/omkarfadtare/IBM_Data_Science_Certification)
 - [Report](https://drive.google.com/file/d/1YXflf18DYLMnKyDXQbQgC9Py1OrgIbt0/view?usp=sharing)
 - [Blog](https://www.linkedin.com/pulse/ibm-data-science-capstone-project-winning-space-race-omkar-fadtare)
+### My Achievement:
+![applied-data-science-capstone](https://user-images.githubusercontent.com/93856624/147692733-fdf59ae7-d5d9-42aa-ba58-87f9de84cc79.png)
